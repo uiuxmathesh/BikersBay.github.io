@@ -252,7 +252,7 @@ p{
     overflow: hidden;
 }
 .Recent-posts:hover{
-    
+    position:static;
     background-color: rgba(252, 175, 82, 0.685);
     border:2px solid black;
     margin:5px;
